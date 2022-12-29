@@ -35,6 +35,8 @@
     margin-left: .7rem;
 }
 
+
+
 @media screen and (min-width: 1024px) {
     .head {
         flex-direction: row;
